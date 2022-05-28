@@ -6,3 +6,11 @@ bin
 admin
 config
 
+git add.
+git commit
+
+git branch vetka
+git checkout vetka
+
+Создал папку blog с index.html и index.js внутри
+

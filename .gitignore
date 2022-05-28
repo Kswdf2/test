@@ -1,4 +1,4 @@
-*.sass
+.sass
 css/*.sass
 bin
 admin
